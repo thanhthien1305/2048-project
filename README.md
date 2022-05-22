@@ -9,6 +9,8 @@
 > K66-CD CN1-UET
 >
 > mathanhthien@gmail.com
+>
+> Link Demo:[2048 SDL - YouTube](https://www.youtube.com/watch?v=yGhtVYZeI4M)
 
 ## **GIỚI THIỆU CHUNG:**
 
