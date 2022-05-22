@@ -1,10 +1,10 @@
 > 
 >
-> ![](C:\Users\Admin\Downloads\download.png)
+> ![]([C:\Users\Admin\Downloads\download.png](https://user-images.githubusercontent.com/100114914/169705468-3cc02aa4-c64b-4a20-aa6b-9e17124a72ff.png))
 >
 > 
 >
-> ##### 																	**2048 Project**
+>	# 2048 Project #
 >
 > Ma Thanh Thiện 21020794
 >
