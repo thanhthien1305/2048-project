@@ -822,7 +822,7 @@ void play()
 					Mix_PlayChannel(-1, glose, 0);
 					Mix_PauseMusic();
 				}
-				if (win = true)
+				if (win == true)
 				{
 					youwin.render(120, 120);
 					Mix_PlayChannel(-1, gwin, 0);
