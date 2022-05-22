@@ -1,10 +1,8 @@
-> 
->
-> ![]([C:\Users\Admin\Downloads\download.png](https://user-images.githubusercontent.com/100114914/169705468-3cc02aa4-c64b-4a20-aa6b-9e17124a72ff.png))
->
-> 
->
->	# 2048 Project #
+
+
+![](https://user-images.githubusercontent.com/100114914/169705468-3cc02aa4-c64b-4a20-aa6b-9e17124a72ff.png)
+
+> # 																	**2048 Project**
 >
 > Ma Thanh Thiện 21020794
 >
@@ -35,7 +33,7 @@ Game được viết bằng ngôn ngữ C++ và sử dụng thư viện SDL2
 
 ## CÁCH CÀI ĐẶT:
 
-- Truy cập [thanhthien1305/2048- (github.com)](https://github.com/thanhthien1305/2048-)
+- Truy cập [thanhthien1305/2048-project (github.com)](https://github.com/thanhthien1305/2048-project)
 - Tải xuống các file và bật 2048 project.sln
 - Ctril F5 hoặc khởi chạy code
 
