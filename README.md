@@ -27,7 +27,7 @@ Game được viết bằng ngôn ngữ C++ và sử dụng thư viện SDL2
 
   - Nhấn RIGHT để dồn các ô sang bên phải
 
-  - Nhấn M để bật/ nhạc
+  - Nhấn M để bật/tắt nhạc
 
 - **Mỗi khi 2 ô cùng giá trị và được sát nhập điểm của người chơi sẽ được công thêm bằng đúng giá trị của ô mới được tạo ra từ việc sát nhập**
 
