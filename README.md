@@ -80,6 +80,6 @@ Game được viết bằng ngôn ngữ C++ và sử dụng thư viện SDL2
 
   - Thầy Trần Quốc Long
   - Thầy Nguyễn Việt Anh
-  - Thầy Nguyễn Thành Công
+  - Thầy Nguyễn Hoàng Minh Công
 
   Vì đã giúp đỡ, chỉ dạy, hướng dẫn em hoàn thành dự án game này.
